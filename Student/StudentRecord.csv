@@ -1,0 +1,3 @@
+ROLL NO.,NAME,STREAM,MARKS LIST,OBTAINED MARKS,PERCENTAGE,DIVISION,GRADE
+2038106,Vaibhav Sachdeva,science,"[17, 12, 2, 1, 23]",55,11.0,FAIL,"{'sub01': 'E', 'sub02': 'E', 'sub03': 'E', 'sub04': 'E', 'sub05': 'E'}"
+2038000,Aman,commerce,"[98, 92, 95, 89, 94]",468,93.60000000000001,1st Division,"{'sub01': 'A', 'sub02': 'A', 'sub03': 'A', 'sub04': 'B', 'sub05': 'A'}"
