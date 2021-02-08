@@ -1,3 +1,11 @@
+"""
+NAME - Vaibhav Sachdeva
+Roll No. - 2038106
+Semester - 1
+Paper Name - Problem Solving Using Computers
+"""
+
+
 class Student:
     def __init__(self):
         print('This program only supports 5 subjects with maximum marks 100 in each subject.')

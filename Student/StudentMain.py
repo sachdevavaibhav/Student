@@ -1,3 +1,10 @@
+"""
+NAME - Vaibhav Sachdeva
+Roll No. - 2038106
+Semester - 1
+Paper Name - Problem Solving Using Computers
+"""
+
 from StudentFunc import *
 
 
