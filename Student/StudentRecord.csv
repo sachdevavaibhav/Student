@@ -1,3 +1,6 @@
 ROLL NO.,NAME,STREAM,MARKS LIST,OBTAINED MARKS,PERCENTAGE,DIVISION,GRADE
-2038106,Vaibhav Sachdeva,science,"[17, 12, 2, 1, 23]",55,11.0,FAIL,"{'sub01': 'E', 'sub02': 'E', 'sub03': 'E', 'sub04': 'E', 'sub05': 'E'}"
-2038000,Aman,commerce,"[98, 92, 95, 89, 94]",468,93.60000000000001,1st Division,"{'sub01': 'A', 'sub02': 'A', 'sub03': 'A', 'sub04': 'B', 'sub05': 'A'}"
+2038106,Vaibhav Sachdeva,science,"[17, 12, 2, 1, 23]",55,11,FAIL,"{'sub01': 'E', 'sub02': 'E', 'sub03': 'E', 'sub04': 'E', 'sub05': 'E'}"
+2038000,Aman,commerce,"[98, 92, 95, 89, 94]",468,93.6,1st Division,"{'sub01': 'A', 'sub02': 'A', 'sub03': 'A', 'sub04': 'B', 'sub05': 'A'}"
+2038000,Angel ,science,"[95, 88, 96, 94, 90]",463,92.60000000000001,1st Division,"{'sub01': 'A', 'sub02': 'B', 'sub03': 'A', 'sub04': 'A', 'sub05': 'A'}"
+2038000,Vaibhav,science,"[95, 98, 45, 78, 12]",328,65.60000000000001,1st Division,"{'sub01': 'A', 'sub02': 'A', 'sub03': 'D', 'sub04': 'C', 'sub05': 'E'}"
+2013444,Aman,arts,"[45, 98, 12, 46, 55]",256,51.2,2nd Division,"{'sub01': 'D', 'sub02': 'A', 'sub03': 'E', 'sub04': 'D', 'sub05': 'D'}"

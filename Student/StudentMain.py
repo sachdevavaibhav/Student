@@ -82,8 +82,7 @@ def main_func():
                             path_to_file = input('Enter file path: ')
                             create_new_file(path_to_file)
                         else:
-                            print('PLEASE ENTER A VALID INPUT!')
-                            main_func()
+                            print('Invalid Input!\nRestart the program.')
 
                     elif user_input == 2:
                         path_to_file = input('Enter file path: ')
